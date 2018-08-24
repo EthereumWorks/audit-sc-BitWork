@@ -414,7 +414,7 @@ toWei function:
 Accepts single parameter: the number of usd (number, not money).
 Does not require a sending transaction and gas.
 Returns calculated amount in Wei (number, not money).
------------------------------------------------------------------------------------------------------------------------------------
+
 toUSD function:
 Accepts single parameter: the number of WEI (number, not money).
 Does not require a sending transaction and gas.
