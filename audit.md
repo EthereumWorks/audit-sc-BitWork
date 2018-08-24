@@ -2,7 +2,7 @@
 
 # Smart contracts audit (BitWork)
 
-Status – in work.	
+Status – completed.	
 
 Code of the contracts is checked for critical errors which could lead to losses of money of the investors.
 Contracts use methods of the library SafeMath for safe calculations.
@@ -452,3 +452,11 @@ Does the following:
 Sets a new time-shift  value.
 
 Note: time-shift is recommended to be removed to eliminate the possibility of interference to the system.
+
+# Disclaimer of Liability 
+This audit concerns only the source codes of smart contracts and should not be regarded as the approval of a platform, team or company. 
+
+# Authors 
+The audit was conducted by EthereumWorks team. For issues related to conducting audits and developing smart contracts please contact: - @SlavaPoe (Telegram), - v.poskonin, MousePo (Skype). 
+ 
+ 
