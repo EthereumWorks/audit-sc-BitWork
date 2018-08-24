@@ -1,6 +1,6 @@
 
 
-# Audit of the smart-contracts (BitWork)
+# Smart contracts audit (BitWork)
 
 Status – in work.	
 
